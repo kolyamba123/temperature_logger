@@ -10,3 +10,5 @@
 5. Клеммник на 3 контакта для подключения датчиков
 
 
+## Схема устройства
+![Схема устройства](https://github.com/kolyamba123/temperature_logger/raw/main/schema.png)
